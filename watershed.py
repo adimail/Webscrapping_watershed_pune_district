@@ -12,11 +12,8 @@ if response.status_code == 200:
 
     # 'href' values structure: watershed/4D5H7.html
 
-    # Extracting watershed IDs from the 'href' attribute of each 'area' element
     watershed_ids = [area['href'].split(
         '/')[-1].split('.')[0] for area in area_elements]
-
-    # df = pd.DataFrame(watershed_ids, columns=['Watershed_ID', 'Area', 'Villages', 'States', 'Districts'])
 
     df = pd.DataFrame(watershed_ids, columns=['Watershed_ID'])
 
