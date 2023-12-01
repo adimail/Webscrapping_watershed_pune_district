@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>4D7G4</title><script type="text/javascript">
+
+function mapOnMouseOver(str){document.getElementById("mousemovemessage").innerHTML=str; }
+
+function mapOnMouseOut(str){document.getElementById("mousemovemessage").innerHTML=""; }
+
+function mapOnClick(str){alert("You are Downloading microwatershed map: "+str+ " (in PNG format)");}
+
+</script>
+<style>
+
+ 
+
+table {
+
+    border-collapse: collapse;
+
+}
+
+
+
+.auto-style1 {
+
+	text-align: center;
+
+}
+
+.auto-style2 {
+
+	text-align: right;
+
+	font-weight: bold;
+
+}
+
+.auto-style5 {
+
+	font-size: medium;
+
+}
+
+
+
+.auto-style12 {
+
+	font-size: small;
+
+	font-weight: bold;
+
+	text-align: center;
+
+}
+
+.auto-style13 {
+
+	text-align: left;
+
+}
+
+
+
+.auto-style14 {
+
+	color: #FF0000;
+
+}
+
+
+
+</style>
+</head>
+<body align="center">
+<div class="auto-style1">
+<table align="center" bgcolor="#7F9728" border="1" width="100%"><tr>
+<td class="auto-style1" style="font-size:20px; color:#Ffffff;"><b>
+<span class="auto-style5">Soil and Land Use Survey of India</span></b><span class="auto-style5"><br/> Department of Agriculture ,Cooperation and Farmers Welfare <br/> Ministry of Agriculture and Farmers Welfare <br/> Government of India</span></td></tr></table>
+<table align="center" bgcolor="#DDFFCC" border="1" width="100%"><tr>
+<td class="auto-style2" style="font-size:18px; color:#F55041;">Microwatershed Atlas of Maharashtra:
+
+	<td class="auto-style4"><strong>Microwatersheds of 
+
+	Watershed [<span class="auto-style14">4D7G4</span>]</strong></td></td></tr></table>
+<table align="center" bgcolor="#FFDDCC" width="100%"><tr>
+<td class="auto-style12" style="color:#FFGGFF;">Note:1) Put mouseover on any 
+
+	Microwatershed to know the Area(ha.) and Fully/Partially covered District(s),Tehsil(s) 
+
+	and Village(s).  2) Click on any microwatershed to get map with Legend</td></tr></table> <body><div id="mousemovemessage"></div><br/><img border="0" ismap="ismap" src="4D7G4.png" title=" " usemap="#mapmap"/>
+<map name="mapmap">
+<area href="microwatershed/4D7G4a1.png" onclick="mapOnClick('4D7G4a1')" onmouseout="mapOnMouseOut('4D7G4a1')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4a1 Area:826.049&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4a1"/>
+<area href="microwatershed/4D7G4a2.png" onclick="mapOnClick('4D7G4a2')" onmouseout="mapOnMouseOut('4D7G4a2')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4a2 Area:1295.76&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4a2"/>
+<area href="microwatershed/4D7G4a3.png" onclick="mapOnClick('4D7G4a3')" onmouseout="mapOnMouseOut('4D7G4a3')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4a3 Area:1189.39&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4a3"/>
+<area href="microwatershed/4D7G4a4.png" onclick="mapOnClick('4D7G4a4')" onmouseout="mapOnMouseOut('4D7G4a4')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4a4 Area:812.997&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4a4"/>
+<area href="microwatershed/4D7G4q3.png" onclick="mapOnClick('4D7G4q3')" onmouseout="mapOnMouseOut('4D7G4q3')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4q3 Area:739.103&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4q3"/>
+<area href="microwatershed/4D7G4q4.png" onclick="mapOnClick('4D7G4q4')" onmouseout="mapOnMouseOut('4D7G4q4')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4q4 Area:885.009&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4q4"/>
+<area href="microwatershed/4D7G4q5.png" onclick="mapOnClick('4D7G4q5')" onmouseout="mapOnMouseOut('4D7G4q5')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4q5 Area:908.038&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4q5"/>
+<area href="microwatershed/4D7G4q6.png" onclick="mapOnClick('4D7G4q6')" onmouseout="mapOnMouseOut('4D7G4q6')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4q6 Area:716.788&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4q6"/>
+<area href="microwatershed/4D7G4r1.png" onclick="mapOnClick('4D7G4r1')" onmouseout="mapOnMouseOut('4D7G4r1')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4r1 Area:728.164&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4r1"/>
+<area href="microwatershed/4D7G4r2.png" onclick="mapOnClick('4D7G4r2')" onmouseout="mapOnMouseOut('4D7G4r2')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4r2 Area:909.414&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4r2"/>
+<area href="microwatershed/4D7G4r3.png" onclick="mapOnClick('4D7G4r3')" onmouseout="mapOnMouseOut('4D7G4r3')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4r3 Area:830.301&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE,THANE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4r3"/>
+<area href="microwatershed/4D7G4r4.png" onclick="mapOnClick('4D7G4r4')" onmouseout="mapOnMouseOut('4D7G4r4')" onmouseover="mapOnMouseOver('&lt;table border=1 align=center&gt;&lt;tr bgcolor=blue&gt;&lt;td colspan=2 style=font-weight:bold&gt;&lt;font color=white face=verdana size=2&gt;Microwatershed:4D7G4r4 Area:982.81&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;State(s):&lt;/td&gt;&lt;td&gt;MAHARASHTRA&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt;District(s):&lt;/td&gt;&lt;td&gt;PUNE&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#BCF5A9&gt;&lt;td&gt;&lt;b&gt;Tehsil(s):&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=left bgcolor=#F2F5A9&gt;&lt;td&gt;&lt;b&gt; No. of Village(s):&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;')" shape="poly" title="4D7G4r4"/>
+</map><hr color="red" width="100%"/>
+<table align="center" bgcolor="#DDDDCC" width="100%"><tr><td style="font-size:16px; color:#FFGGFF;"> © 2017 Copyright <b>Soil and Land Use Survey of India </b></td></tr></table>
+</body></div></body></html>
